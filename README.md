@@ -1,12 +1,9 @@
-# {Grup-8-Platformer-Alpha}
+# The Little Thief / Grup 8 Platformer Alpha
 
 ## Media
-
-- Title Screen
-<img src="https://github.com/Luxary-92/Grup-8-Platformer-Alpha/blob/main/Game%20Screenshots/Screenshot_1.png">
--Game Play
-<img src="https://github.com/Luxary-92/Grup-8-Platformer-Alpha/blob/main/Game%20Screenshots/Screenshot_2.png">
-<img src="https://github.com/Luxary-92/Grup-8-Platformer-Alpha/blob/main/Game%20Screenshots/Screenshot_3.png" >
+<img src="https://github.com/Luxary-92/Grup-8-Platformer-Alpha/blob/main/Game%20Screenshots/Screenshot_1.png" width="500">
+<img src="https://github.com/Luxary-92/Grup-8-Platformer-Alpha/blob/main/Game%20Screenshots/Screenshot_2.png" width="500">
+<img src="https://github.com/Luxary-92/Grup-8-Platformer-Alpha/blob/main/Game%20Screenshots/Screenshot_3.png" width="500">
 
 ## Description
 
