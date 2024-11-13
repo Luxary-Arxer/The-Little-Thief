@@ -41,17 +41,12 @@ The goal is having a simple platformer with levels created with Tiled. There mus
 
 ### Main character
 - {Penzilla}-https://penzilla.itch.io/hooded-protagonist
-- https://twitter.com/PennyPenzilla
 ### Walking enemy
 - {FoozleCC} - https://foozlecc.itch.io/critters-enemy-pack-2
-- https://twitter.com/FoozleCC
 ### Flying enemy
 - {Cheshire} - https://jeevo.itch.io/insect-enemies
-- https://twitter.com/lovelytoaster
 ### Coins 
 - {SalgueiroAzul} - https://salgueiroazul.itch.io/far-east-styled-coins
-- https://twitter.com/salgueiroAzul
-
 
 ## License
 
